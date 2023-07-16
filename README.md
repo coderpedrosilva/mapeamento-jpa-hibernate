@@ -3,8 +3,7 @@
 O projeto utiliza a Java Persistence API (JPA) para mapeamento objeto-relacional e 
 persistência de dados em aplicações Java. Através do uso do EntityManager, é possível realizar operações 
 de acesso a dados, como inserção, remoção, atualização e deleção, em entidades monitoradas em um contexto 
-de persistência. O EntityManagerFactory é responsável por criar instâncias do EntityManager.
-<br>
+de persistência. O EntityManagerFactory é responsável por criar instâncias do EntityManager. <br>
 <br>
 Além disso, o projeto faz uso do Maven como ferramenta de gerenciamento de dependências e construção 
 do projeto. O Maven ajuda a facilitar a configuração e a compilação do projeto, incluindo a resolução 
